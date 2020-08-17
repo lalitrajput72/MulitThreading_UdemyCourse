@@ -33,7 +33,7 @@ class Worker extends Thread{
 }
 
 
-public class VolatileAndAtomicIntegerExample {
+public class VolatileAndAtomicIntegerExample05 {
 
 	public static void main(String[] args) throws InterruptedException {
 		

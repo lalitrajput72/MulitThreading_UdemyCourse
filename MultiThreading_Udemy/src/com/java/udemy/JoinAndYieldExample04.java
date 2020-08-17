@@ -28,7 +28,7 @@ class Task2 implements Runnable{
 	}
 }
 
-public class JoinAndYieldExample {
+public class JoinAndYieldExample04 {
 
 	@SuppressWarnings("static-access")
 	public static void main(String[] args) throws InterruptedException{
