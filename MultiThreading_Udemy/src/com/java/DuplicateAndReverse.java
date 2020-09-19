@@ -3,7 +3,7 @@ package com.java;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Test {
+public class DuplicateAndReverse {
 
 	public static void main(String[] args) {
 

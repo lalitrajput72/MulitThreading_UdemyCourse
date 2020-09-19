@@ -3,7 +3,7 @@ package com.java;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Test11 {
+public class ListOperation {
 public static void main(String[] args) {
 	List<Integer> arrList = new ArrayList<Integer>();
     arrList.add(10);

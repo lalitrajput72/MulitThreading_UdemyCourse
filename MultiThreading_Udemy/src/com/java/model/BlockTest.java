@@ -1,9 +1,9 @@
 package com.java.model;
 
-public class Test1 {
+public class BlockTest {
  static int a;
  static String b;
- Test1(){
+ BlockTest(){
 	 a=100;
 	 b="a10";
  }

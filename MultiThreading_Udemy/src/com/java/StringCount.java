@@ -3,7 +3,7 @@ package com.java;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Test3 {
+public class StringCount {
 
 	public static void main(String[] args) {
 		System.out.println(CheckString("mnop", "zmtornp"));

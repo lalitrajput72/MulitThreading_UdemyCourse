@@ -1,6 +1,6 @@
 package com.java.model;
 
-public class Test {
+public class InheritanceTest {
 	int a=1;
 	static int b=2;
 	

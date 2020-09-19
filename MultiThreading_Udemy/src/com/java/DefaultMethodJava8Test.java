@@ -36,15 +36,15 @@ package com.java;
 
 
 
-public class Client123 implements  I1,I2,I3{
+public class DefaultMethodJava8Test implements  I1,I2,I3{
 
    
     public void i1()
     {
-        System.out.println("I1 in "+Client123.class);
+        System.out.println("I1 in "+DefaultMethodJava8Test.class);
     }
     public static void main(String[] args) {
-        Client123 c =new  Client123();
+    	DefaultMethodJava8Test c =new  DefaultMethodJava8Test();
         c.i1(); // override default method child class get precedence
         c.i2();
         c.i3();
