@@ -3,10 +3,10 @@ package com.java.model;
 import java.util.HashMap;
 import java.util.Map;
 
-public class TestPro {
+public class MapOperation {
 
 	public static void main(String[] args) {
-		
+		// Print count of colour which occured most. 
 		String[] a = {"Lalit:Red","Amit:Red","Sumit:Green"};
 		
 		Map<String,Integer> map=new HashMap<>();
